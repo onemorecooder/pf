@@ -1,0 +1,23 @@
+[
+  {
+    "title": "Studies",
+    "item1": "Degree in Micro-Computer Systems & Networks",
+    "item2": "Higher Degree in Animation & Videogame Development",
+    "item3": "Higher Degree in Web Application development"
+  },
+  {
+    "title": "Stack",
+    "item1": "HTML",
+    "item2": "CSS",
+    "item3": "JavaScript",
+    "item4": "React",
+    "item5": "FramerMotion",
+    "item6": "Tailwind"
+  },
+  {
+    "title": "Certificates",
+    "item1": "Erasmus+ - Leipzig (Germany)",
+    "item2": "CCNA Discovery: Networking for Home and Small Businesses",
+    "item3": "B2 - First Certificate in Englih"
+  }
+]
